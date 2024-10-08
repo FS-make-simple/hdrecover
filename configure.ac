@@ -1,4 +1,4 @@
-AC_INIT(hdrecover, 0.5)
+AC_INIT(hdrecover, 0.6)
 AC_CONFIG_SRCDIR(hdrecover.c)
 AM_CONFIG_HEADER(config.h)
 AM_INIT_AUTOMAKE
